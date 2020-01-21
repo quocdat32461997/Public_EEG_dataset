@@ -1,0 +1,1 @@
+This list of functions I developed is to read EEG recordings in multiple formats. The motivation is that I have in-hand EEG files in .cnt extention which could not be read by MNE (Python package for EEG analysis). This fact prompts me to develop functions to read EEG data conveniently.  
