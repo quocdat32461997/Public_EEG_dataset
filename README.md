@@ -1,5 +1,7 @@
 # Public_EEG_dataset
 
+Dependencies to read EEG:
+	MNE
 List of EEG datasets and relevant details
 
 * Alzheimer's Disease

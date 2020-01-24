@@ -1,1 +1,8 @@
-This list of functions I developed is to read EEG recordings in multiple formats. The motivation is that I have in-hand EEG files in .cnt extention which could not be read by MNE (Python package for EEG analysis). This fact prompts me to develop functions to read EEG data conveniently.  
+After installing MNE, attempt to import raw EEG in .cnt files by:
+
+	'''python3
+	import mne
+	file = mne.io.read_raw_cnt("files.cnt")
+	print(file.info)
+	eeg = file.get_data()
+	'''
