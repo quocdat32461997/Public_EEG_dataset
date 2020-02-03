@@ -1,0 +1,4 @@
+AuthName "restricted stuff"
+AuthType Basic
+AuthUserFile /data/isip/www/.htpasswds/passwd_nedc_tuheeg
+require valid-user

@@ -11,3 +11,4 @@ If errors return "CNTEventype has no latency", then:
 	vi cnt.py
 	
 	Comment line 428 to 431, you will get same result 
+	rsync -auxv nedc_tuh_eeg@www.isip.piconepress.com:~/data/tuh_eeg_abnormal .
