@@ -54,7 +54,7 @@ more-itertools==8.0.2
 nbconvert==5.5.0
 nbformat==4.4.0
 nltk==3.4.5
-notebook==5.7.8
+notebook==6.1.5
 npm==0.1.1
 numpy==1.16.4
 oauthlib==3.1.0
